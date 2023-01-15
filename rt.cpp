@@ -2,7 +2,7 @@
 using namespase std;
 int main(){
 
-cout<<"Hello world";
+cout<<"Hola world";
 
 
     return 0;
